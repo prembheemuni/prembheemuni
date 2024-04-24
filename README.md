@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prembheemuni
-- 👀 I’m interested in Web Development/React Js
-- 🌱 I’m currently learning NextJs
+- 👀 I’m interested in Full Stack development
 - 📫 How to reach me prem8309090125@gmail.com
 
 <!---
